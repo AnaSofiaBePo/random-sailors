@@ -1,0 +1,21 @@
+{
+  "name": "random-sailors",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Sofia Bermúdez <anasofiabepo@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-sailors": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
