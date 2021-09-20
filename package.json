@@ -15,7 +15,15 @@
   "author": "Sofia Bermúdez <anasofiabepo@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-sailors": "./bin/global.js"
+    "random-sailors": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaSofiaBePo/random-sailors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnaSofiaBePo/random-sailors/issues"
+  },
+  "homepage": "https://github.com/AnaSofiaBePo/random-sailors#readme"
 }
